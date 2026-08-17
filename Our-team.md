@@ -212,7 +212,7 @@
 
 ## **Member 5 : Tong**
 
-<img src="assets/ใส่ชื่อไฟล์รูปภาพคนที่เราสัมภาษณ์.jpg" alt="รูปของฉัน">
+<img src="Picture/thanyaphak.jpg" alt="รูปของฉัน">
 
 ### Personal information
 
