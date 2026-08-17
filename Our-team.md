@@ -62,52 +62,52 @@
 
 ---
 
-## **Member 2 : "ชื่อเล่น"**
+## **Member 2 : Shokun**
 
-<img src="assets/ใส่ชื่อไฟล์รูปภาพคนที่เราสัมภาษณ์.jpg" alt="รูปของฉัน">
+<img src="Picture/Swavit.jpeg" alt="รูปของฉัน">
 
 ### Personal information
 
-- Name-surname :"ใส่ชื่อจริง-นามสกุล"
-- Nickname : "ใส่ชื่อเล่น"
-- Id : "ใส่รหัสนักศึกษา"
-- Birthday: "ใส่วันเกิด"
-- Age : "ใส่อายุ"
-- Favorite food : "ใส่อาหารที่ชอบ"
-- Favorite color : "ใส่สีที่ชอบ"
-- Travel :"ใส่วิธีการเดินทาง"
-- Contact : [instagram.com/ใส่ชื่อIg คนที่เราสัมภาษณ์](https://www.instagram.com/your_username)
-- Github :[github.com/ใส่ชื่อgithubคนที่เราสัมภาษณ์](https://github.com/your_username)
+- Name-surname :Swavit Wangvisavavit
+- Nickname : shokun
+- Id : 69130500060
+- Birthday: 6 september 2007
+- Age : 18
+- Favorite food : salmon
+- Favorite color : white
+- Travel :drive a car
+- Contact : [shxkxn_xyz](https://www.instagram.com/shxkxn_xyz)
+- Github :[Shxnkxn](https://github.com/Shxkxn)
 
 ---
 
 # **Goal** :triangular_flag_on_post:
-"บอกเป้าหมายในอนาคต"
+อยากเป็นเจ้าของธุรกิจตั้งแต่อายุยังน้อย หาเงินได้เยอะๆอยากไปเที่ยวเก็บประสบการณ์เยอะๆในวัยที่อายุยังน้อย
 
 # **Hobby** :eyes:
-"บอกงานอดิเรกพร้อมเหตุผลที่ชอบ"
+ชอบเล่นเปียโน เล่นเกม ขับรถเล่น เพราะสนุก
 
 # **Why did you choose to study at SIT KMUTT** :question:
-"ขอเหตุผลที่เลือกเรียนที่นี่"
+มีพี่สาวเรียนจบจากที่นี่และประสบความสำเร็จหลายคน เลยอยากที่จะเดินตามรอยพี่สาวในส่วนนี้และคิดว่าความรู้ทางด้านนี้จะจำเป็นที่จะต้องใช้ในอนาคต
 
 # **Differences from high school** :chart_with_upwards_trend:
-"บอกความต่างจากการเรียนมัธยมกับมหาลัย"
+มหาลัยมีความอิสระหลากหลายมากกว่า ต้องมีความรับผิดชอบในตัวเองมากขึ้นในเรื่องการใช้ชีวิตและการเรียน
 
 # **Concerns** :disappointed:
-"บอกความกังวลของการเรียนมหาลัย"
+ไม่ค่อยกังวลอะไรอยากจบเกรดดีๆและใช้ชีวิตมหาลัยให้เต็มที่เก็บประสบการณ์เยอะๆทั้งเรื่องการเรียนการใช้ชีวิต
 
 # **Impressions** :star:
-"บอกความประทับใจคนที่มาสัมภาษณ์"
+คนที่มาสัมภาษณ์เป็นเพื่อนสนิทใน sec ของผม ผมรู้จักกับบอสเพราะทักไปทำความรู้จักกันตั้งแต่มหาลัยยังไม่เปิด บอสเป็นเพื่อนคนนึงที่ตอบและให้คำแนะนำผมดีๆมากๆตั้งแต่ยังรู้จักกันแรกๆจนถึงตอนนี้
 
 # **1 photo** :framed_picture:
-ขอ1รูปพร้อมเหตุผลที่ชอบรูปนี้
 
-<img src="assets/ใส่ชื่อไฟล์รูปภาพที่ชอบ.jpg" alt="รูปของฉัน">
 
-"ใส่เหตุผลตรงนี้"
+<img src="Fvrpicture/SwavitFav.JPG" alt="รูปของฉัน">
+
+ถ่ายกับเพื่อนๆกลุ่มแรกและยังเป็นกลุ่มปัจจุบัน
 
 ## ผู้สัมภาษณ์
-> "ใส่ชื่อจริง-นามสกุล : ชื่อเล่น : รหัสนักศึกษา"
+> "ใส่ชื่อจริง-นามสกุล : Keuaphasit Kongthanachunhaporn ชื่อเล่น Boss : รหัสนักศึกษา 69130500004"
 
 ---
 
