@@ -158,52 +158,52 @@
 
 ---
 
-## **Member 4 : "ชื่อเล่น"**
+## **Member 4 : Ton**
 
-<img src="assets/ใส่ชื่อไฟล์รูปภาพคนที่เราสัมภาษณ์.jpg" alt="รูปของฉัน">
+<img src="Picture/Panupong.jpg" alt="รูปของต้น">
 
 ### Personal information
 
-- Name-surname :"ใส่ชื่อจริง-นามสกุล"
-- Nickname : "ใส่ชื่อเล่น"
-- Id : "ใส่รหัสนักศึกษา"
-- Birthday: "ใส่วันเกิด"
-- Age : "ใส่อายุ"
-- Favorite food : "ใส่อาหารที่ชอบ"
-- Favorite color : "ใส่สีที่ชอบ"
-- Travel :"ใส่วิธีการเดินทาง"
-- Contact : [instagram.com/ใส่ชื่อIg คนที่เราสัมภาษณ์](https://www.instagram.com/your_username)
-- Github :[github.com/ใส่ชื่อgithubคนที่เราสัมภาษณ์](https://github.com/your_username)
+- Name-surname :Panupong Suriyan
+- Nickname : Ton
+- Id : 69130500045
+- Birthday: 29/6/2006
+- Age : 20
+- Favorite food : ramen
+- Favorite color : Purple
+- Travel :Ride a motorcycle
+- Contact : [to_npan.u](https://www.instagram.com/to_npan.u?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+- Github :[Nebula [NMV]](https://github.com/Nebula-NMV)
 
 ---
 
 # **Goal** :triangular_flag_on_post:
-"บอกเป้าหมายในอนาคต"
+เพราะอยากพยายามทำทุกอย่างให้ได้ เลยอยากเป็น free lance แล้วอยากมีอิสระในการทำงาน ไม่ผูกมัดกับงานงานหนึ่งมากเกินไป
 
 # **Hobby** :eyes:
-"บอกงานอดิเรกพร้อมเหตุผลที่ชอบ"
+พูดคุยกับเพื่อนใน discord เพราะเป็นการฝึกพูดกับคนอื่น ซึ่งตอนแรกยังไม่กล้าพูดคุยเท่าไหร่
 
 # **Why did you choose to study at SIT KMUTT** :question:
-"ขอเหตุผลที่เลือกเรียนที่นี่"
+เพราะเรียน ปวช. มา แล้วอาจารย์แนะนำให้มาเรียนที่นี่ แล้วที่บ้านอยากให้เรียนที่นี่ เลยตัดสินใจมาเรียน
 
 # **Differences from high school** :chart_with_upwards_trend:
-"บอกความต่างจากการเรียนมัธยมกับมหาลัย"
+ตอนเรียน ปวช. เพื่อนรู้สึกค่อนข้างสบายกว่าที่นี่ เพราะ ปวช. ส่วนใหญ่ไม่มีงานและไม่มีการบ้าน
 
 # **Concerns** :disappointed:
-"บอกความกังวลของการเรียนมหาลัย"
+ค่องข้างกังวลเรื่องภาษาอังกฤษ เพราะทุกอย่างที่เรียนเป็นภาษาอังกฤษหมดรวมถึงการสอบและเพื่อนไม่เก่งภาษาอังกฤษ
 
 # **Impressions** :star:
-"บอกความประทับใจคนที่มาสัมภาษณ์"
+รู้สึกว่าเพื่อนเป็นคนที่ friendly คุยด้วยกันง่าย และมีความเป็นกันเองค่อนข้างมาก
 
 # **1 photo** :framed_picture:
 ขอ1รูปพร้อมเหตุผลที่ชอบรูปนี้
 
-<img src="assets/ใส่ชื่อไฟล์รูปภาพที่ชอบ.jpg" alt="รูปของฉัน">
+<img src="Fvrpicture/Vacancy_180925_1.png" alt="รูปของฉัน">
 
-"ใส่เหตุผลตรงนี้"
+เพราะเป็น vtuber ที่เพื่อนชอบและตัวละครเล็กๆ รอบๆ สื่อถึงทุกๆคนที่อยู่ร่วมกันกับ vtuber คนนี้
 
 ## ผู้สัมภาษณ์
-> "ใส่ชื่อจริง-นามสกุล : ชื่อเล่น : รหัสนักศึกษา"
+> Tanaphat Anantaphet (Peak) 69130500022
 
 ---
 
