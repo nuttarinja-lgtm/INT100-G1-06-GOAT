@@ -218,7 +218,7 @@
 - Id : 69130500025
 - Birthday: 28 January 2008
 - Age : 18
-- Favorite food : 
+- Favorite food : กระเพราหมูกรอบ , Mattcha latte
 - Favorite color : cream
 - Travel : Grab , Walk
 - Contact : [tc9pk](https://www.instagram.com/tc9pk)
