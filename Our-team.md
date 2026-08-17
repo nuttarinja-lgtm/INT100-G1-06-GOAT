@@ -207,52 +207,53 @@
 
 ---
 
-## **Member 5 : "ชื่อเล่น"**
+## **Member 5 : Tong**
 
 <img src="assets/ใส่ชื่อไฟล์รูปภาพคนที่เราสัมภาษณ์.jpg" alt="รูปของฉัน">
 
 ### Personal information
 
-- Name-surname :"ใส่ชื่อจริง-นามสกุล"
-- Nickname : "ใส่ชื่อเล่น"
-- Id : "ใส่รหัสนักศึกษา"
-- Birthday: "ใส่วันเกิด"
-- Age : "ใส่อายุ"
-- Favorite food : "ใส่อาหารที่ชอบ"
-- Favorite color : "ใส่สีที่ชอบ"
-- Travel :"ใส่วิธีการเดินทาง"
-- Contact : [instagram.com/ใส่ชื่อIg คนที่เราสัมภาษณ์](https://www.instagram.com/your_username)
-- Github :[github.com/ใส่ชื่อgithubคนที่เราสัมภาษณ์](https://github.com/your_username)
+- Name-surname :Thanyaphak Chaichada
+- Nickname : Tong
+- Id : 69130500025
+- Birthday: 28 January 2008
+- Age : 18
+- Favorite food : 
+- Favorite color : cream
+- Travel : Grab , Walk
+- Contact : [tc9pk](https://www.instagram.com/tc9pk)
+- Github :[tc9pk](https://github.com/tc9pk)
 
 ---
 
 # **Goal** :triangular_flag_on_post:
-"บอกเป้าหมายในอนาคต"
+พัฒนา software ต่าง ๆ แล้วก็มีอีกเป้าหมายคือเป็น Music Producer เป็นเป้าหมายแรกที่อยากทำ
+
 
 # **Hobby** :eyes:
-"บอกงานอดิเรกพร้อมเหตุผลที่ชอบ"
+เล่นดนตรี เพราะชอบดนตรีมาก ๆ เวลาใช้เวลากับดนตรีแล้วรู้สึกผ่อนคลาย
 
 # **Why did you choose to study at SIT KMUTT** :question:
-"ขอเหตุผลที่เลือกเรียนที่นี่"
+เพราะหลักสูตรของสาขานี้ตรงกับสิ่งที่เราสนใจแล้วอยากเรียน
 
 # **Differences from high school** :chart_with_upwards_trend:
-"บอกความต่างจากการเรียนมัธยมกับมหาลัย"
+รู้สึกว่ามัธยมจะสบายกว่านี้ พอขึ้นมหาลัยแล้วเราต้องโฟกัสกับตัวเองมากขึ้น มีวินัยในตัวเองมากขึ้น
 
 # **Concerns** :disappointed:
-"บอกความกังวลของการเรียนมหาลัย"
+กลัวไม่มีเพื่อน กลัวเรียนตามเพื่อนไม่ทัน
 
 # **Impressions** :star:
-"บอกความประทับใจคนที่มาสัมภาษณ์"
+รู้สึกว่าเป็นคนทำงานเก่ง มีความรับผิดชอบต่องานของตัวเอง
 
 # **1 photo** :framed_picture:
 ขอ1รูปพร้อมเหตุผลที่ชอบรูปนี้
 
-<img src="assets/ใส่ชื่อไฟล์รูปภาพที่ชอบ.jpg" alt="รูปของฉัน">
+<img src="Fvrpicture/thankyapakfav1.jpg" alt="รูปของฉัน">
 
 "ใส่เหตุผลตรงนี้"
 
 ## ผู้สัมภาษณ์
-> "ใส่ชื่อจริง-นามสกุล : ชื่อเล่น : รหัสนักศึกษา"
+> Nuttarin Jumriagsukwattana : พีค : 69130500019
 
 ---
 
