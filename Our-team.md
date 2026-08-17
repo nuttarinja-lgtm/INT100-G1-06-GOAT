@@ -111,52 +111,53 @@
 
 ---
 
-## **Member 3 : "ชื่อเล่น"**
+## **Member 3 : "Boss"**
 
-<img src="assets/ใส่ชื่อไฟล์รูปภาพคนที่เราสัมภาษณ์.jpg" alt="รูปของฉัน">
+<img src="Picture/Keuaphasit.png" alt="รูปของฉัน">
 
 ### Personal information
 
-- Name-surname :"ใส่ชื่อจริง-นามสกุล"
-- Nickname : "ใส่ชื่อเล่น"
-- Id : "ใส่รหัสนักศึกษา"
-- Birthday: "ใส่วันเกิด"
-- Age : "ใส่อายุ"
-- Favorite food : "ใส่อาหารที่ชอบ"
-- Favorite color : "ใส่สีที่ชอบ"
-- Travel :"ใส่วิธีการเดินทาง"
-- Contact : [instagram.com/ใส่ชื่อIg คนที่เราสัมภาษณ์](https://www.instagram.com/your_username)
-- Github :[github.com/ใส่ชื่อgithubคนที่เราสัมภาษณ์](https://github.com/your_username)
+- Name-surname :Keuaphasit Kongthanachunhaporn
+- Nickname : Boss
+- Id : 69130500004
+- Birthday: 6 June 2008
+- Age : 18
+- Favorite food : Omelet
+- Favorite color : Black
+- Travel :Drive
+- Contact : [instagram](https://www.instagram.com/bossbirbubi)
+- Github :[github](https://github.com/keuaphasit08)
 
 ---
 
 # **Goal** :triangular_flag_on_post:
-"บอกเป้าหมายในอนาคต"
+เที่ยวรอบโลกกับแฟน เลี้ยงไซบีเรียนกับโกเดลอย่างละตัว มีเงินซื้อบ้านหลังใหญ่ๆอยู่กลางเมืองและชนบท ซื้อรถที่ตัวเองชอบ
 
 # **Hobby** :eyes:
-"บอกงานอดิเรกพร้อมเหตุผลที่ชอบ"
+เตะฟุตบอล เพราะชอบดูฟุตบอล ชอบออกกำลังกาย และเล่นมมาตั้งแต่เด็กๆ
 
 # **Why did you choose to study at SIT KMUTT** :question:
-"ขอเหตุผลที่เลือกเรียนที่นี่"
+มีชื่อเสียงด้านเทคโนโลยี ชอบเนื้อหาทันสมัยอัปเดตทันทุกยุค เพื่อนพ่อแนะนำ
 
 # **Differences from high school** :chart_with_upwards_trend:
-"บอกความต่างจากการเรียนมัธยมกับมหาลัย"
+มัธยมเรีนยวิชาละ50นาที ต่างกับมหาลัยที่เรียนวิชาละ 3 ชั่วโมงทำให้เบื่อง่าย หลุดโฟกัสง่าย การสอบยากกว่ามัธยมเพราะมหาลัยสอบเป็นภาษาอังกฤษ
 
 # **Concerns** :disappointed:
-"บอกความกังวลของการเรียนมหาลัย"
+กังวลว่าจะไม่มีท่ี่ฝึกงาน,เรียนตามคนอื่นไม่ทัน,เรียนไม่รู้เรื่อง,
 
 # **Impressions** :star:
-"บอกความประทับใจคนที่มาสัมภาษณ์"
+เพื่อนเฟรนลี่ นิสัยดีคุยง่ายถูกคอ ขับรถซิ่ง สาวเยอะ 
 
 # **1 photo** :framed_picture:
 ขอ1รูปพร้อมเหตุผลที่ชอบรูปนี้
 
-<img src="assets/ใส่ชื่อไฟล์รูปภาพที่ชอบ.jpg" alt="รูปของฉัน">
+<img src="Fvrpicture/Closing Ceremony-69.jpeg" alt="รูปของฉัน">
 
-"ใส่เหตุผลตรงนี้"
+ถ่ายกับเพื่อนๆพี่ๆใน stater pack เป็นรูปแรกๆขอรั้วมหาลัย
+
 
 ## ผู้สัมภาษณ์
-> "ใส่ชื่อจริง-นามสกุล : ชื่อเล่น : รหัสนักศึกษา"
+> ใส่ชื่อจริง-นามสกุล :Swavit Wangvisavavit ชื่อเล่น : Shokun รหัสนักศึกษา: 69130500060
 
 ---
 
