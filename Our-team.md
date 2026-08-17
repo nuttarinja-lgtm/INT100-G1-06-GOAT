@@ -209,7 +209,7 @@
 
 ## **Member 5 : Tong**
 
-<img src="Picture/thanyaphak.jpg" alt="รูปของฉัน">
+<img src="Picture/thanyaphak.JPG" alt="รูปของฉัน">
 
 ### Personal information
 
@@ -250,7 +250,8 @@
 
 <img src="Fvrpicture/thankyapakfav1.jpg" alt="รูปของฉัน">
 
-"ใส่เหตุผลตรงนี้"
+เพราะเป็นวันสุดท้ายของกิจกรรม Starter Pack ช่วงเวลานั้นคือการขอบคุณพี่ที่คอยสอนเราตลอดกิจกรรม
+
 
 ## ผู้สัมภาษณ์
 > Nuttarin Jumriagsukwattana : พีค : 69130500019
