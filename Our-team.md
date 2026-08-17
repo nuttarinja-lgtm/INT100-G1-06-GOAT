@@ -15,6 +15,8 @@
 
 <img src="assets/ใส่ชื่อไฟล์รูปภาพคนที่เราสัมภาษณ์.jpg" alt="รูปของฉัน">
 
+### Personal information
+
 - Name-surname :"ใส่ชื่อจริง-นามสกุล"
 - Nickname : "ใส่ชื่อเล่น"
 - Id : "ใส่รหัสนักศึกษา"
@@ -26,9 +28,8 @@
 - Contact : [instagram.com/ใส่ชื่อIg คนที่เราสัมภาษณ์](https://www.instagram.com/your_username)
 - Github :[github.com/ใส่ชื่อgithubคนที่เราสัมภาษณ์](https://github.com/your_username)
 
-### ผู้สัมภาษณ์
-> "ใส่ชื่อจริง-นามสกุล : ชื่อเล่น : รหัสนักศึกษา"
 ---
+
 # **Goal** :triangular_flag_on_post:
 "บอกเป้าหมายในอนาคต"
 
@@ -54,11 +55,17 @@
 
 "ใส่เหตุผลตรงนี้"
 
+### ผู้สัมภาษณ์
+> "ใส่ชื่อจริง-นามสกุล : ชื่อเล่น : รหัสนักศึกษา"
+
 ---
+
 ## **Member 2 : "ชื่อเล่น"**
 
 <img src="assets/ใส่ชื่อไฟล์รูปภาพคนที่เราสัมภาษณ์.jpg" alt="รูปของฉัน">
 
+### Personal information
+
 - Name-surname :"ใส่ชื่อจริง-นามสกุล"
 - Nickname : "ใส่ชื่อเล่น"
 - Id : "ใส่รหัสนักศึกษา"
@@ -70,9 +77,8 @@
 - Contact : [instagram.com/ใส่ชื่อIg คนที่เราสัมภาษณ์](https://www.instagram.com/your_username)
 - Github :[github.com/ใส่ชื่อgithubคนที่เราสัมภาษณ์](https://github.com/your_username)
 
-### ผู้สัมภาษณ์
-> "ใส่ชื่อจริง-นามสกุล : ชื่อเล่น : รหัสนักศึกษา"
 ---
+
 # **Goal** :triangular_flag_on_post:
 "บอกเป้าหมายในอนาคต"
 
@@ -98,11 +104,17 @@
 
 "ใส่เหตุผลตรงนี้"
 
+## ผู้สัมภาษณ์
+> "ใส่ชื่อจริง-นามสกุล : ชื่อเล่น : รหัสนักศึกษา"
+
 ---
+
 ## **Member 3 : "ชื่อเล่น"**
 
 <img src="assets/ใส่ชื่อไฟล์รูปภาพคนที่เราสัมภาษณ์.jpg" alt="รูปของฉัน">
 
+### Personal information
+
 - Name-surname :"ใส่ชื่อจริง-นามสกุล"
 - Nickname : "ใส่ชื่อเล่น"
 - Id : "ใส่รหัสนักศึกษา"
@@ -114,9 +126,8 @@
 - Contact : [instagram.com/ใส่ชื่อIg คนที่เราสัมภาษณ์](https://www.instagram.com/your_username)
 - Github :[github.com/ใส่ชื่อgithubคนที่เราสัมภาษณ์](https://github.com/your_username)
 
-### ผู้สัมภาษณ์
-> "ใส่ชื่อจริง-นามสกุล : ชื่อเล่น : รหัสนักศึกษา"
 ---
+
 # **Goal** :triangular_flag_on_post:
 "บอกเป้าหมายในอนาคต"
 
@@ -142,11 +153,17 @@
 
 "ใส่เหตุผลตรงนี้"
 
+## ผู้สัมภาษณ์
+> "ใส่ชื่อจริง-นามสกุล : ชื่อเล่น : รหัสนักศึกษา"
+
 ---
+
 ## **Member 4 : "ชื่อเล่น"**
 
 <img src="assets/ใส่ชื่อไฟล์รูปภาพคนที่เราสัมภาษณ์.jpg" alt="รูปของฉัน">
 
+### Personal information
+
 - Name-surname :"ใส่ชื่อจริง-นามสกุล"
 - Nickname : "ใส่ชื่อเล่น"
 - Id : "ใส่รหัสนักศึกษา"
@@ -158,9 +175,8 @@
 - Contact : [instagram.com/ใส่ชื่อIg คนที่เราสัมภาษณ์](https://www.instagram.com/your_username)
 - Github :[github.com/ใส่ชื่อgithubคนที่เราสัมภาษณ์](https://github.com/your_username)
 
-### ผู้สัมภาษณ์
-> "ใส่ชื่อจริง-นามสกุล : ชื่อเล่น : รหัสนักศึกษา"
 ---
+
 # **Goal** :triangular_flag_on_post:
 "บอกเป้าหมายในอนาคต"
 
@@ -186,11 +202,17 @@
 
 "ใส่เหตุผลตรงนี้"
 
+## ผู้สัมภาษณ์
+> "ใส่ชื่อจริง-นามสกุล : ชื่อเล่น : รหัสนักศึกษา"
+
 ---
+
 ## **Member 5 : "ชื่อเล่น"**
 
 <img src="assets/ใส่ชื่อไฟล์รูปภาพคนที่เราสัมภาษณ์.jpg" alt="รูปของฉัน">
 
+### Personal information
+
 - Name-surname :"ใส่ชื่อจริง-นามสกุล"
 - Nickname : "ใส่ชื่อเล่น"
 - Id : "ใส่รหัสนักศึกษา"
@@ -202,9 +224,8 @@
 - Contact : [instagram.com/ใส่ชื่อIg คนที่เราสัมภาษณ์](https://www.instagram.com/your_username)
 - Github :[github.com/ใส่ชื่อgithubคนที่เราสัมภาษณ์](https://github.com/your_username)
 
-### ผู้สัมภาษณ์
-> "ใส่ชื่อจริง-นามสกุล : ชื่อเล่น : รหัสนักศึกษา"
 ---
+
 # **Goal** :triangular_flag_on_post:
 "บอกเป้าหมายในอนาคต"
 
@@ -230,11 +251,17 @@
 
 "ใส่เหตุผลตรงนี้"
 
+## ผู้สัมภาษณ์
+> "ใส่ชื่อจริง-นามสกุล : ชื่อเล่น : รหัสนักศึกษา"
+
 ---
+
 ## **Member 6 : "ชื่อเล่น"**
 
 <img src="assets/ใส่ชื่อไฟล์รูปภาพคนที่เราสัมภาษณ์.jpg" alt="รูปของฉัน">
 
+### Personal information
+
 - Name-surname :"ใส่ชื่อจริง-นามสกุล"
 - Nickname : "ใส่ชื่อเล่น"
 - Id : "ใส่รหัสนักศึกษา"
@@ -246,9 +273,8 @@
 - Contact : [instagram.com/ใส่ชื่อIg คนที่เราสัมภาษณ์](https://www.instagram.com/your_username)
 - Github :[github.com/ใส่ชื่อgithubคนที่เราสัมภาษณ์](https://github.com/your_username)
 
-### ผู้สัมภาษณ์
-> "ใส่ชื่อจริง-นามสกุล : ชื่อเล่น : รหัสนักศึกษา"
 ---
+
 # **Goal** :triangular_flag_on_post:
 "บอกเป้าหมายในอนาคต"
 
@@ -273,3 +299,9 @@
 <img src="assets/ใส่ชื่อไฟล์รูปภาพที่ชอบ.jpg" alt="รูปของฉัน">
 
 "ใส่เหตุผลตรงนี้"
+
+## ผู้สัมภาษณ์
+> "ใส่ชื่อจริง-นามสกุล : ชื่อเล่น : รหัสนักศึกษา"
+
+---
+
