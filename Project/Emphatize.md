@@ -1,6 +1,4 @@
-# Emphatize
-
-## Location :school:
+# Location :school:
 **โรงเรียนบางปะกอกวิทยาคม**
 
 ## Pain point :triangular_flag_on_post:
