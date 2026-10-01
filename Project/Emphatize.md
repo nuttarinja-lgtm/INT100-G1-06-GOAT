@@ -46,9 +46,9 @@
 
 
 ## User persona & Journey map :bust_in_silhouette: :chart_with_upwards_trend:
-![User persona Portfolio](images/User%20persona%20(Portfolio).jpg)
-![User persona Portfolio](images/Journey%20map%20(Portfolio).jpg)
+![User persona Portfolio](Images/User%20persona%20(portfolio).jpg)
+![User persona Portfolio](Images/Journey%20map%20(Portfolio).jpg)
 
 ---
-![User persona Admission](images/User%20persona(Admission).jpg)
-![User persona Portfolio](images/Journey%20map(Admission).jpg)
+![User persona Admission](Images/User%20persona(Admission).jpg)
+![User persona Portfolio](Images/Journey%20map(Admission).jpg)
